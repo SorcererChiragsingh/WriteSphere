@@ -70,7 +70,7 @@ This project includes...
 
 ## Tech Stack
 
-- Frontend: HTML, JAVASCRIPT, ReactJS, ExpressJs, Context API.
+- Frontend: HTML,  Tailwind css, ReactJS, ExpressJs, Context API.
 - Backend: Node Js
 - Database:Mongo DB
 - Deployment: 
