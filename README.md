@@ -8,6 +8,7 @@
   </a>
 </h2>
 
+<p> Project is on hold as of now. </p>
 <p>we will be building an in-depth full-stack Blog project application using Node.js, Express, React, and MongoDB along with ES6+.</p>
 
 <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
