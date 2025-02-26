@@ -1,13 +1,14 @@
-<h1 align="center">WriteSphere</h1>
+<h1 align="center">MERN Blog</h1>
 
 <div align="center">
 
 <h2 align="center">
   <a href="LICENSE">
-    <img src="https://github.com/SorcererChiragsingh/Project-WriteSphere/blob/main/Images/MIT%20License.png" alt="MIT License" />
+    <img src="https://github.com/SorcererChiragsingh/Project-MERN-Blog/blob/main/Images/MIT%20License.png" alt="MIT License" />
   </a>
 </h2>
 
+<p> Project is on hold as of now. </p>
 <p>we will be building an in-depth full-stack Blog project application using Node.js, Express, React, and MongoDB along with ES6+.</p>
 
 <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
@@ -88,9 +89,11 @@ This project includes...
 
 ## License
 
-- This project is licensed under the MIT License - see the [LICENSE](https://github.com/SorcererChiragsingh/Project-WriteSphere/blob/main/LICENSE) file for details.
-- This project is packaged and distributed using the [MIT License](https://choosealicense.com/licenses/mit/) which allows for commercial use, distribution, modification and private use provided that all copies of the software contain the same license and copyright.
+- This project is licensed under the MIT License - see the [LICENSE](https://github.com/SorcererChiragsingh/Project-Bean-Brew-Coffee-?tab=MIT-1-ov-file) file for details.
+- The project Bean & Brew Coffee is packaged and distributed using the [MIT License](https://choosealicense.com/licenses/mit/) which allows for commercial use, distribution, modification and private use provided that all copies of the software contain the same license and copyright.
 
 ## Acknowledgements
 
+- I would like to extend my sincere gratitude to [Webo Pedia] [From UDEMY](https://www.udemy.com/user/webo-pedia-2/) for their invaluable guidance and support throughout this project. 
+Their expertise and encouragement have been instrumental in the successful completion of this work.
 - A passion project by [Chirag](www.linkedin.com/in/chirag-singh-148993279)
