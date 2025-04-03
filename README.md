@@ -8,8 +8,14 @@
   </a>
 </h2>
 
-<p> Project is on hold as of now. </p>
-<p>we will be building an in-depth full-stack Blog project application using Node.js, Express, React, and MongoDB along with ES6+.</p>
+<p> 
+we will be building an in-depth feature-rich blog application using the MERN stack (MongoDB, Express.js, React, Node.js).
+walk you through:
+✅ Setting up the backend with Node.js and Express.js
+✅ Integrating MongoDB for database management
+✅ Developing a user-friendly frontend with React
+✅ Implementing essential features like blog posting, user authentication, and more!
+</p>
 
 <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 
