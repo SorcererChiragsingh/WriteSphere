@@ -80,7 +80,7 @@ This project includes...
 - Frontend: HTML,  Tailwind css, ReactJS, ExpressJs, Context API.
 - Backend: Node Js
 - Database:Mongo DB
-- Deployment: 
+- Deployment: vercel
 
 
 ## Roadmap
