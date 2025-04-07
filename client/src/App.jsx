@@ -1,6 +1,6 @@
 import React from 'react'
 import { Button } from './components/ui/button'
-// import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Layout from './Layout/Layout'
 import Index from './pages/Index'
 import { RouteIndex } from './helpers/RouteName'
