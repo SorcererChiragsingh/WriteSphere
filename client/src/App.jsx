@@ -19,7 +19,7 @@ import SearchResult from './pages/SearchResult'
 import Comments from './pages/Comments'
 import User from './pages/User'
 import AuthRouteProtechtion from './components/AuthRouteProtechtion'
-//import OnlyAdminAllowed from './components/OnlyAdminAllowed'
+import OnlyAdminAllowed from './components/OnlyAdminAllowed'
 
 const App = () => {
   return (
