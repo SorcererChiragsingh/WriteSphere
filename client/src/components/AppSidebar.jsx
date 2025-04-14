@@ -9,7 +9,7 @@ import {
     SidebarMenuItem,
 } from "@/components/ui/sidebar"
 import { Link } from "react-router-dom"
-import logo from '@/assets/images/logo-white.png'
+import logo from '../assets/images/Logo1.svg'
 import { IoHomeOutline } from "react-icons/io5";
 import { BiCategoryAlt } from "react-icons/bi";
 import { GrBlog } from "react-icons/gr";
@@ -31,7 +31,7 @@ const AppSidebar = () => {
     return (
         <Sidebar>
             <SidebarHeader className="bg-white">
-                <img src={logo} width={120} />
+                <img src={logo} width={26} />
             </SidebarHeader>
             <SidebarContent className="bg-white">
                 <SidebarGroup>

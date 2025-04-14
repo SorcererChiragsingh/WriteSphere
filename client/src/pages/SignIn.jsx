@@ -13,7 +13,7 @@ import { getEvn } from '@/helpers/getEnv'
 import { useDispatch } from 'react-redux'
 import { setUser } from '@/redux/user/user.slice'
 import GoogleLogin from '@/components/GoogleLogin'
-import logo from '@/assets/images/logo-white.png'
+import logo from '@/assets/Logo1.svg'
 const SignIn = () => {
 
     const dispath = useDispatch()
