@@ -4,11 +4,11 @@ import cookieParser from 'cookie-parser'
 import cors from 'cors'
 import mongoose from 'mongoose'
 import AuthRoute from './routes/Auth.route.js'
-// import UserRoute from './routes/User.route.js'
-// import CategoryRoute from './routes/Category.route.js'
-// import BlogRoute from './routes/Blog.route.js'
-// import CommentRouote from './routes/Comment.route.js'
-// import BlogLikeRoute from './routes/Bloglike.route.js'
+import UserRoute from './routes/User.route.js'
+import CategoryRoute from './routes/Category.route.js'
+import BlogRoute from './routes/Blog.route.js'
+import CommentRouote from './routes/Comment.route.js'
+import BlogLikeRoute from './routes/Bloglike.route.js'
 
 dotenv.config()
 
@@ -26,15 +26,15 @@ app.use(cors({
 // route setup  
 
 app.use('/api/auth', AuthRoute)
-// app.use('/api/user', UserRoute)
-// app.use('/api/category', CategoryRoute)
-// app.use('/api/blog', BlogRoute)
-// app.use('/api/comment', CommentRouote)
-// app.use('/api/blog-like', BlogLikeRoute)
+app.use('/api/user', UserRoute)
+app.use('/api/category', CategoryRoute)
+app.use('/api/blog', BlogRoute)
+app.use('/api/comment', CommentRouote)
+app.use('/api/blog-like', BlogLikeRoute)
 
 
 
-mongoose.connect(process.env.MONGODB_CONN, { dbName: 'yt-mern-blog' })
+mongoose.connect(process.env.MONGODB_CONN, { dbName: 'WriteSphere' })
     .then(() => console.log('Database connected.'))
     .catch(err => console.log('Database connection failed.', err))
 
