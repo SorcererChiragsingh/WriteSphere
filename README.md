@@ -17,7 +17,7 @@ walk you through:
 ✅ Implementing essential features like blog posting, user authentication, and more!
 </p>
 
-<a href="" target="_blank"><strong>➥ Live Demo</strong></a>
+<a href="https://write-sphere.vercel.app/" target="_blank"><strong>➥ Live Demo</strong></a>
 
 </div> <br/><br/>
 
@@ -74,6 +74,12 @@ This project includes...
 ### Add New Blog
 ![](https://github.com/SorcererChiragsingh/WriteSphere/blob/main/Images/UserAdddNewBlog.png)
 
+### View Blog
+![](https://github.com/SorcererChiragsingh/WriteSphere/blob/main/Images/ViewBlogg.png)
+
+### Comment & Like On A Blog
+![](https://github.com/SorcererChiragsingh/WriteSphere/blob/main/Images/CommentOnaBlogg.png)
+
 ### Admin Landing Page
 ![](https://github.com/SorcererChiragsingh/WriteSphere/blob/main/Images/AdminLandingPage.png)
 
@@ -82,6 +88,9 @@ This project includes...
 
 ### Admin List All Users Page
 ![](https://github.com/SorcererChiragsingh/WriteSphere/blob/main/Images/AdminListAllUsersPage.png)
+
+### Admin List All Comments Page
+![](https://github.com/SorcererChiragsingh/WriteSphere/blob/main/Images/ListAllCommentsForAdmin.png)
 
 ### User List Blogg Page
 ![](https://github.com/SorcererChiragsingh/WriteSphere/blob/main/Images/UserListBlogPage.png)
